@@ -1,4 +1,4 @@
-﻿Build started 4/7/2021 3:37:49 PM.
+﻿Build started 4/7/2021 3:41:03 PM.
      1>Project "E:\Huong doi tuong\Phanso\Phanso\Phanso.vcxproj" on node 2 (build target(s)).
      1>InitializeBuildStatus:
          Creating "Release\Phanso.unsuccessfulbuild" because "AlwaysCreate" was specified.
@@ -20,4 +20,4 @@
 
 Build succeeded.
 
-Time Elapsed 00:00:01.90
+Time Elapsed 00:00:01.37
